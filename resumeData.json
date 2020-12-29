@@ -111,13 +111,13 @@
       {
         "title":"Genetic Algorithm Implementation on the Vigenere Cipher",
         "category":"Artificial Intelligence",
-        "image":"/kjsite/GA-Project.jpg",
+        "image":"portfolio/GA-Project.jpg",
         "url":"https://github.com/kjpabla/GA-Implementation"
       },
       {
         "title":"Local Toronto Based Furniture Website",
         "category":"Commercial Website",
-        "image":"/kjsite/DesignedbyHarry-Project.jpg",
+        "image":"portfolio/DesignedbyHarry-Project.jpg",
         "url":"https://designedbyharry.github.io/furniture/"
       }
     ]
