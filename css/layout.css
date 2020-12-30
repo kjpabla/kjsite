@@ -344,6 +344,13 @@ ul#nav li.current a { color: #F06000; }
 }
 .container h1 {
    text-align: center;
+   font: 15px 'opensans-bold', sans-serif;
+   color: #ffffff;
+   text-transform: uppercase;
+   letter-spacing: 2px;
+   font-weight: normal;
+   position: relative;
+   top: -36px;
 }
 .container .progressbar-container {
    position: relative;
@@ -366,15 +373,6 @@ ul#nav li.current a { color: #F06000; }
    animation: g 2500ms infinite ease-in-out;
    z-index: 2;
    }
-.container li em {
-   font: 15px 'opensans-bold', sans-serif;
-   color: #ffffff;
-   text-transform: uppercase;
-   letter-spacing: 2px;
-   font-weight: normal;
-   position: relative;
-   top: -36px;
-}
 .container   .progress {
    z-index: 2;
    }
