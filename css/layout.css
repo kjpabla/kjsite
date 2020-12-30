@@ -366,6 +366,15 @@ ul#nav li.current a { color: #F06000; }
    animation: g 2500ms infinite ease-in-out;
    z-index: 2;
    }
+.container li em {
+   font: 15px 'opensans-bold', sans-serif;
+   color: #ffffff;
+   text-transform: uppercase;
+   letter-spacing: 2px;
+   font-weight: normal;
+   position: relative;
+   top: -36px;
+}
 .container   .progress {
    z-index: 2;
    }
