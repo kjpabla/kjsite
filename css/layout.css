@@ -339,10 +339,8 @@ ul#nav li.current a { color: #F06000; }
 
 
 .container {
-  float: left;
   max-width: 500px;
   margin: 50px auto;
-  text-align: left;
 }
 .container h1 {
    text-align: center;
