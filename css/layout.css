@@ -343,7 +343,7 @@ ul#nav li.current a { color: #F06000; }
   margin: 50px auto;
 }
 .container h1 {
-   color: #ffffff;
+   text-align: center;
 }
 .container .progressbar-container {
    position: relative;
