@@ -361,7 +361,7 @@ ul#nav li.current a { color: #F06000; }
    left: 0;
    top: 0px;
    height: 100%;
-   background-color: #5225bd;
+   background-color: #da491e;
    border-radius: 10px;
    animation: g 2500ms infinite ease-in-out;
    z-index: 2;
@@ -378,19 +378,19 @@ ul#nav li.current a { color: #F06000; }
    position: absolute;
    right: -5px;
    top: -10px;
-   background-color: #5225bd;
+   background-color: #da491e;
    border-radius: 40%;
    }
 
 @keyframes g {
   0% {
-    background-color: #5225bd;
+    background-color: #da491e;
   }
   50% {
     background-color: #607e9e;
   }
   100% {
-    background-color: #5225bd;
+    background-color: #da491e;
   }
 }
 
