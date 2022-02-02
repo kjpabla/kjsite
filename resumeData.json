@@ -2,10 +2,10 @@
   "main": {
     "name":"Karanjot Pabla",
     "nickname":"KJ Pabla",
-    "occupation":"working as a Software Developer @ AIR MILES®",
-    "description":"Experience in React, Automation, Big Data, and CI/CD Pipelines",
-    "image":"profilepic.jpg",
-    "bio":"🏤 Currently studying in the Bachelor of Science (Honours), Computer Science Co-op Program offered at Brock University. 👨‍💻 I possess strengths and interests in Full-Stack Development, Software Engineering, Automation, Machine Learning, and Data Science! 🙋‍♂️ Connect, and feel free to hit me up for any inquiries!",
+    "occupation":"Currently working as a Professional Services Consultant @ Experian™",
+    "description":"Experience in Backend, Automation, Big Data/ML, and Cloud Solutions",
+    "image":"./profilepic.jpg",
+    "bio":"🏤 New Grad of the Bachelor of Science (Honours), Computer Science Co-op Program offered @ Brock University. 👨‍💻 I possess strengths and interests in Software Engineering, Automation, Machine Learning, and Data Science! 🙋‍♂️ Connect, and feel free to hit me up for any inquiries!",
     "contactmessage":"Hit me up for any inquiries!",
     "email": "kp16km@brocku.ca",
     "phone": "365-778-9899",
@@ -50,6 +50,21 @@
       }
     ],
     "work":[
+      {
+        "company":"Experian™",
+        "title":"Professional Services Consultant",
+        "years":"February 2022 - Current",
+        "description":[""]
+      },
+      {
+        "company":"AIR MILES®",
+        "title":"Software Developer (Co-op)",
+        "years":"May 2021 – August 2021",
+        "description":["• Serviced back end solutions for AIR MILES® services leveraged by 100’s of different vendor partners using Postman API, Scala, Java, Jenkins, AWS, and Node, allowing all 11 million collectors to access valid promos",
+        "• Automated Miles Collection report generation for 25 partners, easing report generation for the finance team by generating reports every week in under 5 minutes using AWS Glue, Jenkins, Python, and Spark",
+        "• Generated 3 new audiences in Auth0 APIs to allow Shell Gas access using Postman, Java, Scala, and AWS",        
+        "• Piloted the integration of SignalFX to monitor Health in 3 Java based AIR MILES® essential digital services"]
+      },
       {
         "company":"Ontario Ministry of Transportation – Digital Garage (R&D)",
         "title":"Junior Software Developer (Co-op)",
