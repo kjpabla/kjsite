@@ -2,7 +2,7 @@
   "main": {
     "name":"Karanjot Pabla",
     "nickname":"KJ Pabla",
-    "occupation":"Currently working as a Professional Services Consultant @ Experian™",
+    "occupation":"Currently working as a Technical Consultant @ Experian™",
     "description":"Experience in Backend, Automation, Big Data/ML, and Cloud Solutions",
     "image":"../kjsite/images/profilepic.jpg",
     "bio":"🏤 New Grad of the Bachelor of Science (Honours), Computer Science Co-op Program offered @ Brock University. 👨‍💻 I possess strengths and interests in Software Engineering, Automation, Machine Learning, and Data Science! 🙋‍♂️ Connect, and feel free to hit me up for any inquiries!",
@@ -11,10 +11,10 @@
     "phone": "365-778-9899",
     "address":{
       "city":"Brampton",
-      "state":"Ontario"
+      "state":"Ontario, Canada"
     },
     "website": "https://kjpabla.github.io/kjsite/",
-    "resumedownload":"https://drive.google.com/file/d/1gLgP9bPaK-776VOgxn5bl5sMj8_zxhTI/view?usp=sharing",
+    "resumedownload":"https://drive.google.com/file/d/1CGvjCSQat46z8Sjh2mdIGpUVfXncrh27/view?usp=sharing",
     "social":[
       {
         "name":"linkedin",
@@ -52,14 +52,16 @@
     "work":[
       {
         "company":"Experian™",
-        "title":"Professional Services Consultant",
+        "title":"Technical Consultant",
         "years":"February 2022 - Current",
+        "location":"Boston, MA, USA (Remote)",
         "description":[""]
       },
       {
         "company":"AIR MILES®",
         "title":"Software Developer (Co-op)",
         "years":"May 2021 – August 2021",
+        "location":"Toronto, ON, Canada (Remote)",
         "description":["• Serviced back end solutions for AIR MILES® services leveraged by 100’s of different vendor partners using Postman API, Scala, Java, Jenkins, AWS, and Node, allowing all 11 million collectors to access valid promos",
         "• Automated Miles Collection report generation for 25 partners, easing report generation for the finance team by generating reports every week in under 5 minutes using AWS Glue, Jenkins, Python, and Spark",
         "• Generated 3 new audiences in Auth0 APIs to allow Shell Gas access using Postman, Java, Scala, and AWS",        
@@ -69,24 +71,28 @@
         "company":"Ontario Ministry of Transportation – Digital Garage (R&D)",
         "title":"Junior Software Developer (Co-op)",
         "years":"April 2020 – August 2020",
+        "location":"St. Catharines, ON, Canada (Remote)",
         "description":["• Constructed Pipelines using Azure Services, and Web-Apps created in React collaboratively with 3 senior developers, to digitalise ministry access","• Led launch and training of branch Automation by establishing 100% automation of regression testing for a Ministry Web-App with Selenium"]
       },
       {
         "company":"Ontario Ministry of Transportation – Digital Garage (R&D)",
         "title":"Junior Data Science Developer (Co-op)",
         "years":"January 2020 – April 2020",
+        "location":"St. Catharines, ON, Canada",
         "description":["• Extracted, analyzed, streamlined, and visualized Big Data using various Data Science tools (i.e. Python, Spark, Anaconda, Power BI, Jupyter)","• Mentored a team of 4 interns, communicating objectives, and creating scripts to aggregate Big Data for project needs (i.e. Machine Learning)"]
       },
       {
         "company":"Ontario Ministry of Health",
         "title":"Software QA Analyst (Co-op)",
         "years":"June 2019 – August 2019",
+        "location":"Toronto, ON, Canada",
         "description":["• Collaborated with team of 5 Quality Assurance testers to lead SIT & UAT using Jira, and Confluence, on ambulance software, strengthening capabilities by 50%"]
       },
       {
         "company":"Ontario Ministry of Health",
         "title":"IT Systems Assistant (Co-op)",
         "years":"May 2019 – June 2019",
+        "location":"Toronto, ON, Canada",
         "description":["• Managed updates, and fixed issues on 150 outdated Windows PCs and Linux Servers found in ambulance communication centres across Ontario"]
       }
     ],
